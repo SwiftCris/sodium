@@ -1,6 +1,7 @@
 <img src="common/src/main/resources/sodium-icon.png" width="128">
 
-# Sodium
+# NoPojavCrashSodium
+Fork that fixes pojav launcher crashing when running sodium. 
 
 Sodium is a powerful rendering engine and optimization mod for the Minecraft client which improves frame rates and reduces
 micro-stutter, while fixing many graphical issues in Minecraft.
